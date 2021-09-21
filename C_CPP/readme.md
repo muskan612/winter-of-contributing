@@ -1,4 +1,4 @@
-# Pattens in C
+# Patterns in C
 
 * Topics📄 :
   - [Numerical Patterns](https://github.com/pilipi-puu-puu/winter-of-contributing/tree/main/C_CPP/Pattern/number%20pattern):
